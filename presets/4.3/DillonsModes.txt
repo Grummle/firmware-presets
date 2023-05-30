@@ -1,4 +1,5 @@
 #$ TITLE: Dillons Modes and Adjustment settings
+#$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
